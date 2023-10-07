@@ -1,6 +1,6 @@
 Desenvolvimento de APIs REST com Django 🎞️🔐
 
-O projeto "Netflix DIO - Desenvolvimento de API REST com Django" é um repositório dedicado a um curso de desenvolvimento de API REST usando o framework Django, oferecido pela <a href="https://www.dio.me/"> Digital Innovation One (DIO) </a>. Este projeto foi desenvolvido para fornecer uma base sólida e prática para desenvolvedores que desejam aprender a criar, proteger e testar APIs REST de alta qualidade 🔐🔏
+O projeto "Netflix DIO - Desenvolvimento de API REST com Django" é um repositório dedicado a um curso de desenvolvimento de API REST usando o framework Django, aprimorado por mim e oferecido pela <a href="https://www.dio.me/"> Digital Innovation One (DIO) </a>. Este projeto foi desenvolvido para fornecer uma base sólida e prática para desenvolvedores que desejam aprender a criar, proteger e testar APIs REST de alta qualidade 🔐🔏
 
 Este projeto abrange o uso de:
 
